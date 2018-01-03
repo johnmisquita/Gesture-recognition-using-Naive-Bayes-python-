@@ -4,4 +4,4 @@ Using Naive Bayes to recognize gestures, the program is made up of three parts
 2) use the mixer to mix the images before classifying them
 3) use the classifier to fit the naive bayes classifier
 4) use the predictor to make predictions
- please check the wiki 
+please check the wiki 
